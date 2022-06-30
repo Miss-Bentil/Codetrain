@@ -1,0 +1,22 @@
+.navstyle{
+    background: #b0cc61;
+    color:white
+}
+
+.item :hover{
+    color:black;
+}
+
+.carouselstyle{
+    height:750px;
+}
+
+.hi{
+    margin-bottom: 15px;
+}
+
+.footer{
+    background-color: #b0cc61;
+    padding: 1.5rem 0;
+    color:white
+}
