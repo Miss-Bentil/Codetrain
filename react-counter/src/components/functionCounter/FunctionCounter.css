@@ -1,0 +1,45 @@
+ .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+} 
+
+.wrapper {
+    background-color: rgb(202, 234, 174);
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.increaseUp {
+    background-color: #fff;
+    width: 30px;
+    text-align: center;
+    color: rgb(111, 242, 85);
+    cursor: pointer;
+}
+
+.decreaseDown {
+    background-color: #fff;
+    width: 30px;
+    text-align: center;
+    color: rgb(111, 242, 85);
+    cursor: pointer;
+}
+
+.number {
+    margin: 10px 0;
+    color: rgb(8, 92, 16);
+    padding: 0 5px 0 5px;
+}
+
+h1 {
+    margin-bottom: 20px;
+
+}

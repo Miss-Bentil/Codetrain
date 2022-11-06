@@ -1,0 +1,15 @@
+.footer{
+    background-color:rgb(41, 41, 151);
+    padding-top: 20px;
+}
+.small{
+    font-size: medium;
+}
+
+.large{
+    font-size: large;
+}
+.small1{
+    font-size: medium;
+    color:white
+}

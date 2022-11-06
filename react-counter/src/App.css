@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f7fafb;
+
+}
+
+.wrapperMain {
+   display: grid;
+   grid-template-columns: auto auto;
+   grid-gap: 50px
+   
+}
