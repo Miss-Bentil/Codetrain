@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@300&display=swap');
+
+.card {
+   border: none;
+    
+}
+
+.overall {
+    background-color: white;
+    padding:20px;
+    border-radius: 5px;
+    color:black;
+    width: 250px;
+  
+}
+p {
+    font-family: "Antonio";
+    font-size: 30px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+span {
+    color: grey
+}
+.content {
+    display: grid;
+    gap: 30px;
+}
+
+img{
+    width: 100%;
+
+}
+
+
+.author {
+    color: rgb(78, 76, 76);
+}
+
+
+
+
+
+@media screen and (min-width:600px){
+    .content {
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media screen and (min-width:992px){
+    .content {
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+
+

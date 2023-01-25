@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+.brand {
+    font-family:"Bad Script" ;
+    font-size: 40px;
+   
+}   
+.search-box {
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    width: 35%;
+
+}
+
+.navbar {
+    background-color: aliceblue;
+}
